@@ -99,3 +99,4 @@ the icon and name already configured in this project.
 - Local development: copy `.env.example` to `.env`, fill in your Supabase
   values, then run `npm install` and `npm run dev`.
 # daily-ledger
+# daily-ledger
